@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Kumar</h1>
-<h3> align="center"> Aspiring Data Scientist ! Fresher in Data Analytics</h3>
+<h3 align="center"> Aspiring Data Scientist ! Fresher in Data Analytics</h3>
 <img align="right" alt ="Data" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnamanmehra&label=Profile%20views&color=0e75b6&style=flat" alt="iamnamanmehra" /> </p>
